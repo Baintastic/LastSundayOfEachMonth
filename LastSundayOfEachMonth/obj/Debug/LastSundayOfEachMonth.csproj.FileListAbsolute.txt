@@ -1,0 +1,6 @@
+C:\Users\thabanit\repos\LastSundayOfEachMonth\LastSundayOfEachMonth\bin\Debug\LastSundayOfEachMonth.dll
+C:\Users\thabanit\repos\LastSundayOfEachMonth\LastSundayOfEachMonth\bin\Debug\LastSundayOfEachMonth.pdb
+C:\Users\thabanit\repos\LastSundayOfEachMonth\LastSundayOfEachMonth\obj\Debug\LastSundayOfEachMonth.csprojAssemblyReference.cache
+C:\Users\thabanit\repos\LastSundayOfEachMonth\LastSundayOfEachMonth\obj\Debug\LastSundayOfEachMonth.csproj.CoreCompileInputs.cache
+C:\Users\thabanit\repos\LastSundayOfEachMonth\LastSundayOfEachMonth\obj\Debug\LastSundayOfEachMonth.dll
+C:\Users\thabanit\repos\LastSundayOfEachMonth\LastSundayOfEachMonth\obj\Debug\LastSundayOfEachMonth.pdb
