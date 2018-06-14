@@ -4,3 +4,9 @@ C:\Users\thabanit\repos\LastSundayOfEachMonth\LastSundayOfEachMonth\obj\Debug\La
 C:\Users\thabanit\repos\LastSundayOfEachMonth\LastSundayOfEachMonth\obj\Debug\LastSundayOfEachMonth.csproj.CoreCompileInputs.cache
 C:\Users\thabanit\repos\LastSundayOfEachMonth\LastSundayOfEachMonth\obj\Debug\LastSundayOfEachMonth.dll
 C:\Users\thabanit\repos\LastSundayOfEachMonth\LastSundayOfEachMonth\obj\Debug\LastSundayOfEachMonth.pdb
+C:\Users\thabanit\MyClonedRep\LastSundayOfEachMonth\LastSundayOfEachMonth\bin\Debug\LastSundayOfEachMonth.dll
+C:\Users\thabanit\MyClonedRep\LastSundayOfEachMonth\LastSundayOfEachMonth\bin\Debug\LastSundayOfEachMonth.pdb
+C:\Users\thabanit\MyClonedRep\LastSundayOfEachMonth\LastSundayOfEachMonth\obj\Debug\LastSundayOfEachMonth.csprojAssemblyReference.cache
+C:\Users\thabanit\MyClonedRep\LastSundayOfEachMonth\LastSundayOfEachMonth\obj\Debug\LastSundayOfEachMonth.csproj.CoreCompileInputs.cache
+C:\Users\thabanit\MyClonedRep\LastSundayOfEachMonth\LastSundayOfEachMonth\obj\Debug\LastSundayOfEachMonth.dll
+C:\Users\thabanit\MyClonedRep\LastSundayOfEachMonth\LastSundayOfEachMonth\obj\Debug\LastSundayOfEachMonth.pdb

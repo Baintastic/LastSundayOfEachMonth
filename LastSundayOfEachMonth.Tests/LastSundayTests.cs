@@ -8,13 +8,13 @@ using System.Threading.Tasks;
 namespace LastSundayOfEachMonth.Tests
 {
     [TestFixture]
-    public class LastSundayOfEachMonthTests
+    public class LastSundayTests
     {
 
         [TestCase("2018-01-28", 2018, 0)]
         [TestCase("2018-02-25", 2018, 1)]
         [TestCase("2018-03-25", 2018, 2)]
-        public void Find_GivenYear2018_ShouldReturnLastSundayOfEachMonth(string expected ,int year,int index)
+        public void Find_GivenYear2018_ShouldReturnLastSundayOfAMonth(string expected ,int year,int index)
         {
             //---------------Arrange-------------------
             var sut = CreateLastSunday();   
@@ -62,7 +62,7 @@ namespace LastSundayOfEachMonth.Tests
         }
 
         [Test]
-        public void Find_GivenYear2018_ShouldReturnLastSundayOfAllMonths()
+        public void Find_GivenYear2018_ShouldReturnLastSundayOfEachMonth()
         {
             //---------------Arrange-------------------
             var sut = CreateLastSunday();
@@ -74,7 +74,7 @@ namespace LastSundayOfEachMonth.Tests
         }
 
         [Test]
-        public void Find_GivenYear2013_ShouldReturnLastSundayOfAllMonths()
+        public void Find_GivenYear2013_ShouldReturnLastSundayOfEachMonth()
         {
             //---------------Arrange-------------------
             var sut = CreateLastSunday();
